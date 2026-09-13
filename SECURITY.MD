@@ -38,4 +38,4 @@ Reproducing these attacks against systems you do not own or have explicit permis
 
 ---
 
-*Ayham Megdadi · ANU 2025–2026*
+*Ayham Megdadi · Cybersecurity and Cloud Computing*
