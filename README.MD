@@ -14,7 +14,6 @@
 <br/>
 
 > **Ayham Megdadi** — Cybersecurity & Cloud Computing  
-> Ajloun National University (ANU) · Academic Year 2025–2026
 
 </div>
 
@@ -22,7 +21,7 @@
 
 ## 📖 About This Repository
 
-This repository is a **personal portfolio of technical security reports** produced throughout my academic and practical journey in **Cybersecurity and Cloud Computing** at Ajloun National University.
+This repository is a **personal portfolio of technical security reports** produced throughout my academic and practical journey in **Cybersecurity and Cloud Computing**.
 
 Each report reflects hands-on work across real lab environments, CTF platforms, and academic projects — documented to professional industry standards.
 
@@ -35,15 +34,9 @@ Each report reflects hands-on work across real lab environments, CTF platforms, 
 ```
 CyberReports/
 ├── penetration-testing/
-│   ├── Zero-Day-Legacy-Pentest-Report.pdf     ← Hospital CTF VM — Full chain: SQLi → XSS → Root
-│   └── ...
 ├── digital-forensics/
-│   └── ...
 ├── ctf-writeups/
-│   └── ...
 ├── cloud-computing/
-│   └── ...
-└── README.md
 ```
 
 ---
@@ -60,10 +53,6 @@ Structured reports following **NIST SP 800-115** methodology covering:
 - Post-Exploitation & Reporting
 - Remediation Recommendations
 
-| Report | Target | Key Findings |
-|--------|--------|-------------|
-| [Zero-Day Legacy — Hospital CTF VM](./penetration-testing/) | Royal Health Hospital (CTF) | SQLi · XSS · Session Hijack · CVE-2021-3493 · Root |
-
 ---
 
 ### 🔵 Digital Forensics Reports
@@ -75,10 +64,6 @@ Investigation reports covering:
 - Log Analysis & Timeline Reconstruction
 - Evidence Documentation & Chain of Custody
 
-| Report | Case | Tools Used |
-|--------|------|-----------|
-| *(coming soon)* | — | — |
-
 ---
 
 ### 🟢 CTF Writeups
@@ -89,10 +74,6 @@ Detailed writeups from Capture the Flag competitions and labs:
 - Tools and payloads used
 - Lessons learned
 
-| Writeup | Platform | Category |
-|---------|----------|---------|
-| *(coming soon)* | — | — |
-
 ---
 
 ### 🟠 Cloud Computing Reports
@@ -102,10 +83,6 @@ Reports covering cloud security, architecture, and deployment:
 - AWS / Azure / GCP security assessments
 - Cloud misconfigurations & hardening
 - IAM, storage, and network security
-
-| Report | Platform | Focus |
-|--------|----------|-------|
-| *(coming soon)* | — | — |
 
 ---
 
@@ -129,6 +106,8 @@ Reports covering cloud security, architecture, and deployment:
 **Ayham Megdadi**  
 B.Sc. in Information Technology — Cybersecurity and Cloud Computing  
 Ajloun National University (ANU) · 2025–2026
+
+Cybersecurity and Cloud Computing graduate, ranked 2nd in my graduating class, with hands-on experience in penetration testing, vulnerability assessment, security analysis, and secure software development gained through academic projects, cybersecurity labs, Capture the Flag (CTF) competitions, and documented penetration testing engagements. Possess a solid understanding of network security, cloud security, vulnerability management, risk assessment, incident response, and security best practices across Linux and Windows environments. Passionate about strengthening organizational security posture, protecting critical infrastructure, and continuously expanding technical expertise while contributing to Security Operations, Cloud Security, or Cybersecurity teams.
 
 **Graduation Project:** [Zero-Day Legacy](https://github.com/Ayham-Megdadi/Zero-Day-Legacy) + [AIMAS](https://github.com/Ayham-Megdadi/AIMAS)  
 **Grade: 97% 🏆 — Highest in the University**
@@ -159,7 +138,7 @@ Ajloun National University (ANU) · 2025–2026
 
 <div align="center">
 
-*Ayham Megdadi · Cybersecurity & Cloud Computing · ANU 2025–2026*  
+*Ayham Megdadi · Cybersecurity & Cloud Computing*  
 *⭐ Star this repo if you found the reports useful!*
 
 </div>
