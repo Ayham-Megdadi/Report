@@ -40,4 +40,4 @@ If you are forking this repo as a template for your own portfolio:
 
 ---
 
-*Ayham Megdadi · ANU 2025–2026*
+*Ayham Megdadi · Cybersecurity and Cloud Computing*
